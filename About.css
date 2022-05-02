@@ -1,0 +1,248 @@
+ .u-section-1 {
+  background-image: none;
+  min-height: 778px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 450px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 450px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 24px 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  margin: 42px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 22px 0 0;
+}
+
+.u-section-1 .u-layout-wrap-2 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 328px;
+  background-image: url("images/b12b24b55b0dc979982340b82415e1c658ccbed2ff07e7a8fcd7c4c770dfe876650ec78eb975eb9c5b19295ce3a976bb97bf7312a927a9922dccd6_1280.jpg");
+  background-position: 50% 50%;
+  background-size: 175%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 21px 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 21px auto 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 6px 206px 0 152px;
+}
+
+.u-section-1 .u-image-3 {
+  min-height: 328px;
+  background-image: url("images/Capture3.PNG");
+  background-position: 50% 0%;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 21px 12px 0;
+}
+
+.u-section-1 .u-text-5 {
+  margin: 21px 30px 0;
+}
+
+.u-section-1 .u-text-6 {
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin: 6px 82px 0 115px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 833px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 371px;
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-image-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 371px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 270px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 213px;
+    margin-left: 102px;
+    margin-right: 156px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 270px;
+  }
+
+  .u-section-1 .u-text-5 {
+    font-size: 2.25rem;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 32px;
+    margin-left: 65px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 638px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 284px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 216px;
+    height: 216px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 207px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 47px;
+    margin-right: 101px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 207px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 1662px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 556px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 311px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 311px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 1085px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 350px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 196px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 196px;
+  }
+
+  .u-section-1 .u-text-5 {
+    font-size: 1.5rem;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-left: 20px;
+  }
+}
