@@ -1,5 +1,5 @@
  .u-section-1 {
-  min-height: 805px;
+  min-height: 815px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
@@ -8,7 +8,7 @@
 }
 
 .u-section-1 .u-image-1 {
-  min-height: 805px;
+  min-height: 815px;
   background-image: linear-gradient(0deg, rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url("images/zeke-tucker-0EP4QyCjtgE-unsplash.jpg");
   background-position: 50% 50%;
 }
@@ -18,7 +18,7 @@
 }
 
 .u-section-1 .u-layout-cell-2 {
-  min-height: 805px;
+  min-height: 815px;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -53,11 +53,11 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 664px;
+    min-height: 672px;
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 664px;
+    min-height: 672px;
   }
 
   .u-section-1 .u-image-2 {
@@ -76,7 +76,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 509px;
+    min-height: 515px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -100,7 +100,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 764px;
+    min-height: 773px;
   }
 
   .u-section-1 .u-container-layout-2 {
@@ -115,6 +115,6 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 481px;
+    min-height: 487px;
   }
 }
