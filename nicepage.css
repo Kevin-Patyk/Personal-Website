@@ -36567,7 +36567,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: 24px auto 0;
+  margin: 24px auto 15px;
 }
 
 .u-header .u-nav-1 {
@@ -36580,22 +36580,9 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-nav-2 {
   font-size: 1.25rem;
 }
-
-.u-header .u-btn-1 {
-  border-style: solid;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0px;
-  margin: -38px 16px 16px auto;
-  padding: 4px 27px 4px 25px;
-}
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
     width: auto;
-  }
-
-  .u-header .u-btn-1 {
-    margin-right: 0;
   }
 }
 
